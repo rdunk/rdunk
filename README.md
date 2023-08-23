@@ -8,16 +8,11 @@ I build applications using some of things listed below.
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Front-fff?style=for-the-badge#gh-light-mode-only)
-![Static Badge](https://img.shields.io/badge/Vue-fff?style=for-the-badge&logo=vuedotjs&logoColor=000#gh-light-mode-only)
-![Static Badge](https://img.shields.io/badge/Nuxt-fff?style=for-the-badge&logo=nuxtdotjs&logoColor=000#gh-light-mode-only)
-![Static Badge](https://img.shields.io/badge/Tailwind-fff?style=for-the-badge&logo=tailwind-css&logoColor=000#gh-light-mode-only)
-![Static Badge](https://img.shields.io/badge/PostCSS-fff?style=for-the-badge&logo=postcss&logoColor=000#gh-light-mode-only)
-![Static Badge](https://img.shields.io/badge/Front-000?style=for-the-badge#gh-dark-mode-only)
-![Static Badge](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs&logoColor=fff#gh-dark-mode-only)
-![Static Badge](https://img.shields.io/badge/Nuxt-000?style=for-the-badge&logo=nuxtdotjs&logoColor=fff#gh-dark-mode-only)
-![Static Badge](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css&logoColor=fff#gh-dark-mode-only)
-![Static Badge](https://img.shields.io/badge/PostCSS-000?style=for-the-badge&logo=postcss&logoColor=fff#gh-dark-mode-only)
+![Static Badge](https://img.shields.io/badge/Front-fff?style=for-the-badge#gh-light-mode-only)![Static Badge](https://img.shields.io/badge/Front-000?style=for-the-badge#gh-dark-mode-only)
+![Static Badge](https://img.shields.io/badge/Vue-fff?style=for-the-badge&logo=vuedotjs&logoColor=000#gh-light-mode-only)![Static Badge](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs&logoColor=fff#gh-dark-mode-only)
+![Static Badge](https://img.shields.io/badge/Nuxt-fff?style=for-the-badge&logo=nuxtdotjs&logoColor=000#gh-light-mode-only)![Static Badge](https://img.shields.io/badge/Nuxt-000?style=for-the-badge&logo=nuxtdotjs&logoColor=fff#gh-dark-mode-only)
+![Static Badge](https://img.shields.io/badge/Tailwind-fff?style=for-the-badge&logo=tailwind-css&logoColor=000#gh-light-mode-only)![Static Badge](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css&logoColor=fff#gh-dark-mode-only)
+![Static Badge](https://img.shields.io/badge/PostCSS-fff?style=for-the-badge&logo=postcss&logoColor=000#gh-light-mode-only)![Static Badge](https://img.shields.io/badge/PostCSS-000?style=for-the-badge&logo=postcss&logoColor=fff#gh-dark-mode-only)
 <br />
 ![Static Badge](https://img.shields.io/badge/Server-fff?style=for-the-badge#gh-light-mode-only)
 ![Static Badge](https://img.shields.io/badge/Node-fff?style=for-the-badge&logo=nodedotjs&logoColor=000#gh-light-mode-only)
