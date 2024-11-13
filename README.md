@@ -1,6 +1,8 @@
 👋
 
-I’m a full-stack TypeScript developer and occasional designer based in London.
+I’m a TypeScript developer and occasional designer based in London.
+
+I work at [Sanity](https://sanity.io).
 
 I build applications using some of things listed below.
 
